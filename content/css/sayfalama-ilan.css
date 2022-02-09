@@ -1,0 +1,25 @@
+.sayfala ul li {
+    float: left;
+    margin: 0 1px 0 0;
+    background: #909090;
+    list-style: none;
+}
+ 
+.sayfala ul li a, .sayfala ul li span {
+    display: block;
+    padding: 0 15px;
+    color: #fff;
+    font-size: 17px;
+    line-height: 38px;
+    text-decoration: none;
+}
+ 
+.sayfala ul li.active {
+    color: #fff;
+    background-color: #4CAF50;
+}
+ 
+.sayfala ul li:hover, .sayfala ul li.active {
+    color: #fff;
+    background-color: #4CAF50;
+}
