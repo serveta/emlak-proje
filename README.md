@@ -14,7 +14,7 @@ I was asked to build a real estate e-commerce website like a full-stack develope
 
 # Live link of the project
 - Note: The link may be broken. If so please alert me!
-- http://emlakproje.cf/proje/index.php
+- [http://emlakproje.rf.gd](http://emlakproje.rf.gd/proje/)
 
 # Learned with this project
 - I saw what I could do if I was a full-stack developer for the first time.
